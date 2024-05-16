@@ -1,4 +1,4 @@
-# DataStructuresImplementationInC
+# Data Structures Implementation In C
 
 This repository contains implementations of fundamental data structures in the C programming language. It is designed to help understand and utilize common data structures for various programming tasks and algorithms. Each data structure is implemented with accompanying comments and examples to demonstrate its usage.
 
