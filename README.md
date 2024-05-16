@@ -6,6 +6,7 @@ This repository contains implementations of fundamental data structures in the C
 
 - **Linked Lists**
   - Singly Linked List
+  - Cursor Linked List
 - **Stacks**
   - Array Implementation
   - Array In Struct Implementation
