@@ -42,7 +42,7 @@ To compile and run the examples:
     ./SplayTree
     ```
 
-## Contributing
+## Contributing 
 
 Contributions are welcome! Please fork the repository, create a branch for your feature or bug fix, and submit a pull request for review.
 
